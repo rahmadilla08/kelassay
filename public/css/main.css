@@ -51,7 +51,7 @@ h1 {
   height: 250px;
   position: absolute;
   top: 20px;
-  right: 550px;
+  right: 450px;
   width: 30%;
   box-shadow: -2px -2px 15px #888888;
 }
@@ -104,24 +104,6 @@ label {
   position: absolute;
   bottom: 90px;
   right: 550px;
-  width: 30%;
-  box-shadow: -2px -2px 15px #888888;
-}
-
-#localVideo-container3 {
-  height: 250px;
-  position: absolute;
-  bottom: 90px;
-  right: 1050px;
-  width: 30%;
-  box-shadow: -2px -2px 15px #888888;
-}
-
-#localVideo-container4 {
-  height: 250px;
-  position: absolute;
-  bottom: 90px;
-  right: 50px;
   width: 30%;
   box-shadow: -2px -2px 15px #888888;
 }
